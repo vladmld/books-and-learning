@@ -19,6 +19,8 @@
 - Grokking Simplicity: Taming Complex Software with Functional Thinking Book by Eric Normand
 - The Missing README: A Guide for the New Software Engineer Chris Riccomini
 - A Philosophy of Software Design by John Ousterhout
+- https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F
+- https://arxiv.org/pdf/2410.02707
 
   ## Articles
   - [ ] https://www.gatesnotes.com/microsoft-original-source-code
