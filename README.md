@@ -12,6 +12,7 @@
 - fast.ai
 - Codecrafters Rust path
 - Cybersecurity
+- https://d2l.ai/
 - LSP & MCP
 - Deep work by Cal Newport
 - The Mythical Man-Month Book by Fred Brooks
