@@ -3,7 +3,7 @@ id: doc-1
 title: Backlog's backlog
 type: other
 created_date: '2025-08-11 03:40'
-updated_date: '2025-08-11 03:40'
+updated_date: '2025-08-11 04:06'
 ---
 ## Books
 - [ ] Deep work by Cal Newport
@@ -24,6 +24,7 @@ updated_date: '2025-08-11 03:40'
 - [ ] The Last Algorithms Course You'll Need 1 & 2
 - [ ] Complete Intro to Containers, v2
 - [ ] https://www.coursera.org/learn/sciwrite
+- [ ] Grokking System Design Fundamentals
 
 
 ## Certifications
