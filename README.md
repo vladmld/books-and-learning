@@ -1,4 +1,4 @@
-# Kanban Board Export (powered by Backlog.md)
+# Studies
 Generated on: 2025-09-01 03:21:00
 Project: 📚 Study
 
