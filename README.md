@@ -5,4 +5,4 @@ Project: 📚 Study
 | To Do | In Progress |
 | --- | --- |
 | **TASK-4** - OAuth - Build Own Client ![0%](https://geps.dev/progress/0) | **TASK-3** - Rust HTTP Server ![5%](https://geps.dev/progress/5) |
-| **TASK-2** - Learning How to Learn ![0%](https://geps.dev/progress/0) | **TASK-1** - Deep work by Cal Newport |
+| **TASK-2** - Learning How to Learn ![0%](https://geps.dev/progress/0) |
